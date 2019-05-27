@@ -1,0 +1,14 @@
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\bin\Debug\netcoreapp2.2\CurrentAccountService.deps.json
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\bin\Debug\netcoreapp2.2\CurrentAccountService.runtimeconfig.json
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\bin\Debug\netcoreapp2.2\CurrentAccountService.runtimeconfig.dev.json
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\bin\Debug\netcoreapp2.2\CurrentAccountService.dll
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.csprojAssemblyReference.cache
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.csproj.CoreCompileInputs.cache
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.RazorAssemblyInfo.cache
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.RazorAssemblyInfo.cs
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.AssemblyInfoInputs.cache
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.AssemblyInfo.cs
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.RazorTargetAssemblyInfo.cache
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\bin\Debug\netcoreapp2.2\CurrentAccountService.pdb
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.dll
+C:\Users\AmitNamdev\source\repos\CurrentAccountService\obj\Debug\netcoreapp2.2\CurrentAccountService.pdb
